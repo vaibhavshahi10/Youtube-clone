@@ -1,0 +1,76 @@
+*{
+    font-family: sans-serif;
+}
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid rgb(194, 192, 192);
+}
+#navbar>div{
+    /* border: 1px solid red; */
+    margin-bottom: 10px;
+}
+#youtube_logo{
+    width: 100%;
+    /* height: 20%; */
+    /* border: 1px solid green; */
+}
+#search_logo{
+    /* width: 100%; */
+    /* border: 1px solid blue; */
+    width: 50%;
+}
+#btn{
+    border: none;
+    background-color: white;
+    /* height: 20%; */
+    margin-left: -2px;
+}
+#third{
+    display: flex;
+}
+#bell_div{
+    /* border: 1px solid yellow; */
+    margin-right: -160px;
+}
+#bell{
+    width: 15%;
+    /* border: 1px solid grey; */
+}
+#user{
+    /* border: 1px solid blue; */
+    border-radius: 20px;
+    padding: 10px;
+    font-weight: bold;
+    color: white;
+    background-color: red;
+}
+#searchbar{
+    padding: 10px;
+    width: 80%;
+    border: 1px solid rgb(194, 192, 192);
+}
+#second{
+    width: 50%;
+}
+#first{
+    display: flex;
+    align-items: center;
+    width: 10%;
+}
+#container{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 20px;
+    text-align: center;
+    margin-top: 40px;
+}
+#container>div{
+    /* border: 1px solid red; */
+}
+#imageID{
+    width: 100%;
+}
+#defaultimageID{
+    width: 100%;
+}
