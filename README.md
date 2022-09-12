@@ -5,7 +5,7 @@
 # Nykaa website clone
 
 Youtube is an online video sharing and social media platform where user can search and play the videos.
-
+[Youtube](https://www.youtube.com/)
 
 ## Tech Stack
 
