@@ -2,7 +2,7 @@
 ![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjVMj2LOUULYXdLobexQGzdusDEaWoW0mS9Q&usqp=CAU)
 
 
-# Nykaa website clone
+# Youtube clone
 
 Youtube is an online video sharing and social media platform where user can search and play the videos.
 
