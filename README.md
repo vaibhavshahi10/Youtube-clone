@@ -4,7 +4,7 @@
 
 # Youtube clone
 
-Youtube is an online video sharing and social media platform where user can search and play the videos.
+Youtube is an online video sharing and social media platform where user can search and play the videos.[Live view](https://mellow-tanuki-fb3e28.netlify.app/)
 
 
 ## Tech Stack
